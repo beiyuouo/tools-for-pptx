@@ -1,0 +1,3 @@
+pptx
+pywin32
+six
